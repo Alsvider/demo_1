@@ -58,6 +58,5 @@ public class DBManager {
     }
 
     public DBManager() {
-
     }
 }
